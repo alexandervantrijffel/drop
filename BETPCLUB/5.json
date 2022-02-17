@@ -1,0 +1,15 @@
+{
+  "name": "BETPCLUB#5",
+  "decimals": 0,
+  "description": "Incredible stroke 5.",
+  "external_url": "https://betplacersclub.com",
+  "image": "https://ipfs.io/ipfs/QmVaSLW2jv1gmsDBjh4dX5ugWhSKmSXLokWGPUm7XAdvbn",
+  "background_color": "FFFFFF",
+  "attributes": {
+    "trait_type": "Unrevealed",
+    "value": "Yes"
+  },
+  "properties": {
+    "svg": "https://ipfs.io/ipfs/QmVaSLW2jv1gmsDBjh4dX5ugWhSKmSXLokWGPUm7XAdvbn"
+  }
+}
