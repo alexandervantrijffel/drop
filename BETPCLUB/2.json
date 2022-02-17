@@ -1,5 +1,10 @@
 {
-    "description" : "Incredible stroke 2.",
-    "image" : "https://ipfs.io/ipfs/QmVaSLW2jv1gmsDBjh4dX5ugWhSKmSXLokWGPUm7XAdvbn",
-    "photographer" : "Estatica"
+  "name": "BETPCLUB#2",
+  "decimals": 0,
+  "description": "Incredible stroke 2.",
+  "image": "https://ipfs.io/ipfs/QmVaSLW2jv1gmsDBjh4dX5ugWhSKmSXLokWGPUm7XAdvbn",
+  "properties": {
+    "svg": "https://ipfs.io/ipfs/QmVaSLW2jv1gmsDBjh4dX5ugWhSKmSXLokWGPUm7XAdvbn"
+  }
 }
+
