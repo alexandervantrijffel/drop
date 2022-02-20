@@ -1,0 +1,8 @@
+{
+  "name": "Bet Placers Club",
+  "description": "Welcome to the Bet Placers Club",
+  "image": "https://drop.betplacers.club/BETPCLUB/logo.png",
+  "external_link": "https://betplacersclub.com",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0x28803508aDe6334FFf604A8A784FB7422e77ba6c"
+}
